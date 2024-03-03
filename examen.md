@@ -17,9 +17,9 @@ author_profile: true
 
 
 <ul>
-  {% for post in site.posts %}
+  {% for ex in site.examen %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ ex.url }}">{{ ex.title }}</a>
     </li>
   {% endfor %}
 </ul>

@@ -1,6 +1,6 @@
 ---
-title: "punton "
-layout: posts
+title: "punto"
+layout: examen
 tags: prueba
 categories: 
     - examen
