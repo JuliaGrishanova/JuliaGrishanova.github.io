@@ -12,3 +12,16 @@ author_profile: true
 
 
 [Regresar a Home](/)
+# Últimos Posts
+
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+[Regresar a Home](/)
