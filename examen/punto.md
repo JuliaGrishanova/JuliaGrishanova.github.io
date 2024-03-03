@@ -1,7 +1,7 @@
 ---
 title: "punto"
-layout: examen
-tags: prueba
+
+
 
 ---
 
