@@ -1,10 +1,7 @@
 ---
 
-title: "Gallery"
+title: "Examen"
    
 
 ---
-# Gallery
-![Descripción de la imagen](/descarga.png)
-
-[Regresar a Home](/)
+# tengo un punro en examen
