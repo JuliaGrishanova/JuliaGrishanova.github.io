@@ -29,6 +29,17 @@ defaults:
       share: true
       related: true
 
+        - scope:
+      path: ""
+      type: examen
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 collections:
   members:
     output: true
