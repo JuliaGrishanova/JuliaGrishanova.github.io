@@ -2,9 +2,7 @@
 title: "punto"
 layout: examen
 tags: prueba
-categories: 
-    - examen
-    - punto
+
 ---
 
 
