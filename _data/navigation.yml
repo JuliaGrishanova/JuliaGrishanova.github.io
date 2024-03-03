@@ -1,0 +1,27 @@
+main:
+  - title: "home"
+    url: /
+  - title: "Acerca de"
+    url: /about/
+  - title: "Libros"
+    url: /libros/
+  - title: "Posts"
+    url: /posts/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Examen"
+    url: /punto/
+
+foo:
+  - title: "home"
+    url: /
+  - title: "Acerca de"
+    url: /about/
+  - title: "Libros"
+    url: /libros/
+  - title: "Posts"
+    url: /posts/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Examen"
+    url: /punto/

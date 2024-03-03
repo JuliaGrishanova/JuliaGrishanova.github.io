@@ -1,0 +1,10 @@
+[
+    { "titulo": "Cien años de soledad", "autor": "García Márquez", "paginas": 432 },
+    { "titulo": "1984", "autor": "Orwell", "paginas": 328 },
+    { "titulo": "El señor de los anillos", "autor": "Tolkien", "paginas": 1178 },
+    { "titulo": "Matar a un ruiseñor", "autor": "Lee", "paginas": 336 },
+    { "titulo": "Orgullo y prejuicio", "autor": "Austen", "paginas": 432 },
+    { "titulo": "Don Quijote de la Mancha", "autor": "Cervantes", "paginas": 863 },
+    { "titulo": "El gran Gatsby", "autor": "Fitzgerald", "paginas": 180 },
+    { "titulo": "En busca del tiempo perdido", "autor": "Proust", "paginas": 4215 }
+]
