@@ -28,8 +28,8 @@ defaults:
       comments: true
       share: true
       related: true
-
-        - scope:
+    # _examen
+  - scope:
       path: ""
       type: examen
     values:
@@ -39,6 +39,7 @@ defaults:
       comments: true
       share: true
       related: true
+      
 
 collections:
   members:
